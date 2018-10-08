@@ -21,6 +21,9 @@ These are all increasingly prominent technologies which aren't suited to passwor
 
 ---
 ### Existing Solutions
+
+![broken hard drive](./lib/images/broken-hard-disk-drive.jpg)
+
 - Make personal backups
 - Use a cloud service
 - Use an existing secret sharding tool

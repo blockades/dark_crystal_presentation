@@ -2,12 +2,12 @@
 
 ![key shards](./lib/images/keyshardssm.png)
 
-A peer to peer tool for securely backing up secrets using the power of community networks and human trust.  
+A peer to peer tool for securely backing up secrets using the power of community networks and human trust.
 
 Note: 
-This is the presentation content doc.  Separations between slides are represented by a horizontal rule (three hyphens)
-Hosted live on github pages https://blockades.github.io/dark_crystal_presentation/
-Dark Crystal provides a secure private key management system with no single point of failure.
+- This is the presentation content doc.  Separations between slides are represented by a horizontal rule (three hyphens)
+- Hosted live on github pages https://blockades.github.io/dark_crystal_presentation/
+- Dark Crystal provides a secure private key management system with no single point of failure.
 
 ---
 

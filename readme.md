@@ -64,3 +64,15 @@ These are all increasingly prominent technologies which aren't suited to passwor
 
 ---
 ![dc3](./lib/images/dark-crystal-3.gif)
+
+---
+### More information
+
+- [darkcrystal.pw](https://darkcrystal.pw)
+- #dark-crystal #darkcrystal and #mmt on Scuttlebutt
+
+### Source code
+
+- Client plugin / UI: [github.com/blockades/patchbay-dark-crystal](https://github.com/blockades/patchbay-dark-crystal)
+- API:  [github.com/blockades/scuttle-dark-crystal](http://github.com/blockades/scuttle-dark-crystal)
+- Data schemas: [github.com/blockades/ssb-dark-crystal-schema](https://github.com/blockades/ssb-dark-crystal-schema)

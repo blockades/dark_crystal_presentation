@@ -53,6 +53,8 @@ These are all increasingly prominent technologies which aren't suited to passwor
 
 ### Trustful model
 
+![crystal2](./lib/images/crystal2.png)
+
 - Reinforces community interdependence
 - Reduces dependence on centralised 'giants'
 

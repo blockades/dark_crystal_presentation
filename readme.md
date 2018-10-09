@@ -27,6 +27,7 @@ These are all increasingly prominent technologies which aren't suited to passwor
 
 - Make personal backups
 - Use a cloud service
+- Deterministic password managers
 - Use an existing secret sharding tool
 
 ---

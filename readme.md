@@ -55,7 +55,13 @@ These are all increasingly prominent technologies which aren't suited to passwor
 ![follow graph](./lib/images/follow_graph.png) 
 
 ---
+### Use cases
 
+- Due diligence in teams
+- Inheritance planning
+- Activists in oppressive regimes
+
+---
 ### Trustful model
 
 ![crystal2](./lib/images/crystal2.png)

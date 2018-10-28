@@ -34,6 +34,7 @@ These are all increasingly prominent technologies which aren't suited to passwor
 ### Shamir/Blakely Secret sharing
 
 ![secret share](./lib/images/secret.jpg)
+![3 polynomials](./lib/images/3_polynomials_of_degree_2_through_2_points.svg)
 
 - Split a secret into shards for each friend
 - Individuals hold no information about the secret
@@ -55,6 +56,10 @@ These are all increasingly prominent technologies which aren't suited to passwor
 ![follow graph](./lib/images/follow_graph.png) 
 
 ---
+
+![dc3](./lib/images/dark-crystal-3.gif)
+
+---
 ### Use cases
 
 - Due diligence in teams
@@ -68,9 +73,6 @@ These are all increasingly prominent technologies which aren't suited to passwor
 
 - Reinforces community interdependence
 - Reduces dependence on centralised 'giants'
-
----
-![dc3](./lib/images/dark-crystal-3.gif)
 
 ---
 ### More information

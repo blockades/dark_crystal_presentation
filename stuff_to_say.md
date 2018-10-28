@@ -70,6 +70,7 @@ strings.  it works perfectly but you still need to securely transmit them
 to your friends, your friends need to store them safely, and then transmit
 them back.  we've tried doing this and it can get fiddly especially when
 you have different shards for different things and from different people.
+
 so we are trying to automate a bit and keep things secure.
 
 ---

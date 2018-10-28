@@ -1,6 +1,6 @@
 ### Dark Crystal
 
-![key shards](./lib/images/keyshardssm.png)
+![key crystal](./lib/images/dc_key.png)
 
 A peer to peer tool for securely backing up secrets using the power of community networks and human trust.
 
@@ -61,6 +61,8 @@ These are all increasingly prominent technologies which aren't suited to passwor
 
 ---
 ### Use cases
+
+![key shards](./lib/images/keyshardssm.png)
 
 - Due diligence in teams
 - Inheritance planning
